@@ -53,4 +53,14 @@ The second set of files serve to visualize the game with a Command Line based in
 * ScoreInterface.java (driver class aka "main")
 
 With this practice, the overall business logic has its own implementation and a separate set of files can communicate to business logic to expand on the functionality similar to how the command line interface is doing. With this, a REST API can be created easily as well as advanced GUIs.
-* 
+
+## Setup
+To run this project, you can execute the given .jar file provided in this repo as such:
+
+$ java -jar /path/to/BowlingScoreboard.jar
+
+Another way:
+
+* Load all source files to IDE such as Visual Studio or Eclipse
+* Compile the project
+* Run the "ScoreInterface.java" file
