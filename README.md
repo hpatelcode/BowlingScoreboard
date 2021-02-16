@@ -64,3 +64,9 @@ $ java -jar /path/to/BowlingScoreboard.jar
 * Load all source files to IDE such as Visual Studio or Eclipse
 * Compile the project
 * Run the "ScoreInterface.java" file
+
+## Performance and Current Bugs
+
+Program works for majority of the test cases (90+%). In the current version, there is one small bug on the __last__ frame when inputting either a Strike or Spare and will not accept 2 consecutive strikes even though it is a legal input. Rest of the cases work as intended. 
+
+## Sample Output
