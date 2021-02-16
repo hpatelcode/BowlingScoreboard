@@ -3,3 +3,4 @@ This project allows the user to enter the score for a single game of bowling fra
 
 
 ## General Information 
+The constraints of the project 
